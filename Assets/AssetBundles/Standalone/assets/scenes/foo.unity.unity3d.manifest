@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 685023639
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b101f013a27603658a913ca9413dd18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5fddbb54a17302e264ae7aed9c3d4b38
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f39d2f49ec38f472aa77dfdac6d76b75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Foo.unity
+Dependencies: []
